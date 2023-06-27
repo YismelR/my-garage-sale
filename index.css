@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  border: 1px solid red;
+}
+
+body{
+  border: 1px solid navy;
+  height: 100vh;
+}
+
+nav{
+  height: 24px;
+}
